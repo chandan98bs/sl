@@ -1,0 +1,40 @@
+/* header stytling */
+
+header{
+  overflow: hidden;
+}
+
+.items1{
+  font-size: 50px;
+}
+
+.items2{
+  font-size: 20px;
+}
+/* section stytling */
+
+#cont1{
+  padding: 20% 15%;
+  background-image: url(img/1.jpg);
+  background-size: cover;
+  color: #F5DEB3;
+
+}
+
+.fet{
+  text-align: center;
+  font-size: 20px;
+}
+.fet h1{
+  font-size: 50px;
+  font-weight: bold;
+}
+
+/* footer stytling */
+
+#footer{
+  background-color: grey;
+  min-height: 120%;
+  text-align: center;
+  padding-bottom:10px;
+}
